@@ -7,6 +7,9 @@ const App = () => {
     <div>
       <h1>{username}</h1>
       <h1>{age}</h1>
+      <h1>{age}</h1>
+      <h1>{username}</h1>
+      <h1>{age}</h1>
       <h1>{hometown}</h1>
     </div>
   );
