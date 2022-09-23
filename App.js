@@ -1,6 +1,7 @@
 const username = "Trevor";
 const age = 35;
 const hometown = "Hopewell";
+const favColor = "blue";
 
 const App = () => {
   return (
@@ -8,11 +9,9 @@ const App = () => {
       <h1>{username}</h1>
       <h1>{age}</h1>
       <h1>{age}</h1>
-      <h1>{username}</h1>
-      <h1>{age}</h1>
       <h1>{hometown}</h1>
       <h1>{hometown}</h1>
-      <h1>{hometown}</h1>
+      <h1>{favColor}</h1>
       <h1>{hometown}</h1>
       {/* this is a test */}
     </div>
